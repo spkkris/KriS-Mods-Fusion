@@ -1,0 +1,3 @@
+<?php
+$locale['regulamin'] ="Regulamin";
+?>
