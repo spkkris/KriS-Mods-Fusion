@@ -35,7 +35,7 @@ changeLog of KriS Mods Fusion
 .includes/user_fields_user_primarygroup_include_var.php - Dodano pole profilu odpowiadaj±ce za wybór koloru i prefixu nicka.
 .includes/useragent/ - Dodano UserAgenta.
 .includes/comment_include.php - Awatary oraz sygnatura w komentarzach z ramk±. / Dodano zastêpczy avatar za brak. / Zmieniono kolejñosæ paneli
-.includes/multisite_include.php - Dodano DB odpowiadaj±ce za podstronê z RSS. / Dodano DB odpowiadaj±ce za logi moderatorów. / Dodano PHP-Fusion Revolution. / Dodano DB odpowiadaj±ce za kolory i prefixy nicków.
+.includes/multisite_include.php - Dodano DB odpowiadaj±ce za podstronê z RSS. / Dodano DB odpowiadaj±ce za logi moderatorów. / Dodano KriS Mods Fusion. / Dodano DB odpowiadaj±ce za kolory i prefixy nicków.
 .includes/forum_include.php - Dodano Rangi z v7.02.03
 
 
@@ -104,9 +104,12 @@ changeLog of KriS Mods Fusion
 .setup.php - Dodano tabele odpowiadaj±c± za notki na forum.
 .setup.php - Dodano pola w tabeli settings odpowiadaj±ce za PW po rejestracji.
 .setup.php - Dodano rekord i tabelê odpowiadaj±c± za logi moderatorów. 
-.setup.php - Dodano PHP-Fusion Revolution. /Zmieniono 7.00.07 na 1.00/ 
+.setup.php - Dodano KriS Mods Fusion. /Zmieniono 7.00.07 na 1.00/ 
 .setup.php - Dodano rekord odpowiedzialny za useragent'a
 .setup.php - Dodano rekordy i tabelê odpowiedzialn± za kolor i prefix nicka.
 .setup.php - Dodano pole w articles_cats odpowiadajace za podkategorie artykulów.
 .setup.php - Dodano rekord odpowiedzialny za zarz?dzanie linkami.  
 .setup.php - Dodano rekord odpowiedzialny za rangi
+
+//Zmiany w 2015
+- Poprawki VIP SMS
