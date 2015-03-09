@@ -4,109 +4,109 @@ changeLog of PHP-Fusion Revolution Beta
 =Zmienione pliki /  Change files=
 =================================
 .administration/articles_cats.php - Dodano podkategorie
-.administration/articles.php - Dodano mo¿liwoœc u¿ywania bbcode. / Dodano podkategorie
-.administration/forums.php - Dodano wybór subkategori forum.
-.administration/mods_log.php - Dodano plik wyswietlaj¹cy logi moderatorów.
+.administration/articles.php - Dodano moÅ¼liwoÅ›c uÅ¼ywania bbcode. / Dodano podkategorie
+.administration/forums.php - Dodano wybÃ³r subkategori forum.
+.administration/mods_log.php - Dodano plik wyswietlajÄ…cy logi moderatorÃ³w.
 .administration/navigation.php - Dodano Zdublowane IP.
 .administration/nicks_mod.php - Dodano plik odpowiedzialny za ustalanie koloru i prefixu nicka.
-.administration/news.php - Dodano mo¿liwoœc u¿ywania bbcode.
-.administration/rss_parser.php - Dodano plik odpowiadaj¹cy za kanaly RSS.
-.administration/settings_message.php - Dodano mo¿liwoœæ ustalenia tresci dla wiadomoœci po 1 zalogowaniu.
-.administration/photogallery.php - Dodano mo¿liwoœc dodania podgallerii.
-.administration/forum_ranks.php - Zmieniono system rang (wyci¹gniêto z v7.02.03)
+.administration/news.php - Dodano moÅ¼liwoÅ›c uÅ¼ywania bbcode.
+.administration/rss_parser.php - Dodano plik odpowiadajÄ…cy za kanaly RSS.
+.administration/settings_message.php - Dodano moÅ¼liwoÅ›Ä‡ ustalenia tresci dla wiadomoÅ›ci po 1 zalogowaniu.
+.administration/photogallery.php - Dodano moÅ¼liwoÅ›c dodania podgallerii.
+.administration/forum_ranks.php - Zmieniono system rang (wyciÄ…gniÄ™to z v7.02.03)
 
-.forum/index.php - Zmieniono wygl¹d na PHPBB. / Dodano subfora pod temat. / Dodano statystyki forum. / Dodano na skróty.
-.forum/post.php - Dodano pomóg³.
+.forum/index.php - Zmieniono wyglÄ…d na PHPBB. / Dodano subfora pod temat. / Dodano statystyki forum. / Dodano na skrÃ³ty.
+.forum/post.php - Dodano pomÃ³gÅ‚.
 .forum/postify.php - Dodano automatyczne przeniesienie do tematu po napisaniu posta.
 .forum/statistic.php - Dodano plik odpowiedzialny za statystyki forum.
-.forum/view_post_helping_user.php - Dodano plik odpowiedzialny za wyœwetlanie pomocnych postów u¿ytkownika.
+.forum/view_post_helping_user.php - Dodano plik odpowiedzialny za wyÅ›wetlanie pomocnych postÃ³w uÅ¼ytkownika.
 .forum/view_forum.php - Dodano subfora tematu.
-.forum/viewthread.php - Dodano obraz zastêpczy za brak avatara. / Dodano pomóg³. / Dodano notkê moderatora./ Dodano UserAgenta./ Usuniêto edytowano posta/temat. / Dodano napis Zbanowany po zbanowaniu u¿ytkownika./ Dodano rangi z v7.02.03
+.forum/viewthread.php - Dodano obraz zastÄ™pczy za brak avatara. / Dodano pomÃ³gÅ‚. / Dodano notkÄ™ moderatora./ Dodano UserAgenta./ UsuniÄ™to edytowano posta/temat. / Dodano napis Zbanowany po zbanowaniu uÅ¼ytkownika./ Dodano rangi z v7.02.03
 
-.images/favicon.ico - zmieniono ikonê na revolution
+.images/favicon.ico - zmieniono ikonÄ™ na revolution
 
 .includes/na_skroty/ - Dodano folder odpowiedzialny za szybkie link.
 .includes/nicks_mod/ - Dodano folder z funkcjami dla Nicks Mod. 
-.includes/user_fields/user_delete_include.php - Dodano (usuniêcie konta usera/jako zbanowanie).
-.includes/user_fields/user_delete_include_var.php - Dodano (usuniêcie konta usera/jako zbanowanie).
-.includes/user_fields/user_helper_include.php - Dodano iloœæ pomocnych postów u¿ytkownika.
-.includes/user_fields/user_helper_var.php - Dodano iloœæ pomocnych postów u¿ytkownika.
-.includes/user_fields_user_primarygroup_include.php - Dodano pole profilu odpowiadaj¹ce za wybór koloru i prefixu nicka.
-.includes/user_fields_user_primarygroup_include_var.php - Dodano pole profilu odpowiadaj¹ce za wybór koloru i prefixu nicka.
+.includes/user_fields/user_delete_include.php - Dodano (usuniÄ™cie konta usera/jako zbanowanie).
+.includes/user_fields/user_delete_include_var.php - Dodano (usuniÄ™cie konta usera/jako zbanowanie).
+.includes/user_fields/user_helper_include.php - Dodano iloÅ›Ä‡ pomocnych postÃ³w uÅ¼ytkownika.
+.includes/user_fields/user_helper_var.php - Dodano iloÅ›Ä‡ pomocnych postÃ³w uÅ¼ytkownika.
+.includes/user_fields_user_primarygroup_include.php - Dodano pole profilu odpowiadajÄ…ce za wybÃ³r koloru i prefixu nicka.
+.includes/user_fields_user_primarygroup_include_var.php - Dodano pole profilu odpowiadajÄ…ce za wybÃ³r koloru i prefixu nicka.
 .includes/useragent/ - Dodano UserAgenta.
-.includes/comment_include.php - Awatary oraz sygnatura w komentarzach z ramk¹. / Dodano zastêpczy avatar za brak. / Zmieniono kolejñosæ paneli
-.includes/multisite_include.php - Dodano DB odpowiadaj¹ce za podstronê z RSS. / Dodano DB odpowiadaj¹ce za logi moderatorów. / Dodano PHP-Fusion Revolution. / Dodano DB odpowiadaj¹ce za kolory i prefixy nicków.
+.includes/comment_include.php - Awatary oraz sygnatura w komentarzach z ramkÄ…. / Dodano zastÄ™pczy avatar za brak. / Zmieniono kolejÅ„osÄ‡ paneli
+.includes/multisite_include.php - Dodano DB odpowiadajÄ…ce za podstronÄ™ z RSS. / Dodano DB odpowiadajÄ…ce za logi moderatorÃ³w. / Dodano PHP-Fusion Revolution. / Dodano DB odpowiadajÄ…ce za kolory i prefixy nickÃ³w.
 .includes/forum_include.php - Dodano Rangi z v7.02.03
 
 
-.infusions/css_navigation_panel/ - Zmieniono nazwê na navigation_panel
+.infusions/css_navigation_panel/ - Zmieniono nazwÄ™ na navigation_panel
 .infusions/rss_parser_panel/rss_parser_panel/ - Dodano panel.
-.infusions/shoutbox_panel/shoutbox_panel.php - Zamieniono na ajax. / Poprawiono jêzyk i kodowanie.
-.infusions/user_info_panel/user_info_panel.php - Dodano nades³ane materia³y / Dodano avatar oraz jego brak./ Dodano przekierowanie do poprzednio ogl¹danej strony po zalogowaniu i wylogowaniu
-.infusions/today_top_user_panel/ - Dodano folder odpowiedzialny za panel Dzisiejsi top u¿ytkownicy.
+.infusions/shoutbox_panel/shoutbox_panel.php - Zamieniono na ajax. / Poprawiono jÄ™zyk i kodowanie.
+.infusions/user_info_panel/user_info_panel.php - Dodano nadesÅ‚ane materiaÅ‚y / Dodano avatar oraz jego brak./ Dodano przekierowanie do poprzednio oglÄ…danej strony po zalogowaniu i wylogowaniu
+.infusions/today_top_user_panel/ - Dodano folder odpowiedzialny za panel Dzisiejsi top uÅ¼ytkownicy.
 
-.locale/Polish/admin/articles-cats.php - Dodano local: Nadrzêdna kategoria ($locale['430'])
-.locale/Polish/admin/forums.php - Dodano local: Kategoria G³ówna ($locale['022b']).
-.locale/Polish/admin/mods_log.php - Dodano locale odpowiadaj¹ce za logi moderatorów.
-.locale/Polish/admin/nicks_mod.php - Utworzono plik jêzykowy dla Nicks Mod
-.locale/Polish/admin/rss_parser.php - Dodano plik odpowiedzialny za podsrtronê z RSS.
-.locale/Polish/admin/settings.php - Dodano locale odpowiedzialne za wiadomoœæ po 1 zalogowaniu na stronie (znajduj¹ siê pod komentarzem Register PM).
-.locale/Polish/admin/photogallery.php - Dodano locale odpowiedzialne za podgalerie (znajduj¹ siê pod komentarzem sub).
+.locale/Polish/admin/articles-cats.php - Dodano local: NadrzÄ™dna kategoria ($locale['430'])
+.locale/Polish/admin/forums.php - Dodano local: Kategoria GÅ‚Ã³wna ($locale['022b']).
+.locale/Polish/admin/mods_log.php - Dodano locale odpowiadajÄ…ce za logi moderatorÃ³w.
+.locale/Polish/admin/nicks_mod.php - Utworzono plik jÄ™zykowy dla Nicks Mod
+.locale/Polish/admin/rss_parser.php - Dodano plik odpowiedzialny za podsrtronÄ™ z RSS.
+.locale/Polish/admin/settings.php - Dodano locale odpowiedzialne za wiadomoÅ›Ä‡ po 1 zalogowaniu na stronie (znajdujÄ… siÄ™ pod komentarzem Register PM).
+.locale/Polish/admin/photogallery.php - Dodano locale odpowiedzialne za podgalerie (znajdujÄ… siÄ™ pod komentarzem sub).
 .locale/Polish/forum/main.php - Dodano locale postu pomocnego ($locale['498'], $locale['499']). / Dodano locale subforum ($locale['412'],$locale['413']).
 .locale/Polish/forum/posts.php - Dodano locale postu pomocnego ($locale['552'], $locale['553']).
 .locale/Polish/forum/statistic.php - Dodano locale do statystyk na forum.
-.locale/Polish/forum/view_post_helping_user.php - Dodano plik jêzykowy dla pliku wyœwietlaj¹cego pomocne posty u¿ytkownika.
-.locale/Polish/user_center/main.php - dodano plik jêzykowy odpowiedzialny za stronê g³ówn¹ centrum usera.
-.locale/Polish/user_fields/user_delete.php - Dodano local pola profilu do usuniêcia konta.
-.locale/Polish/user_fields/user_primarygroup - Dodano plik jêzykowy odpowiadaj¹cy za pole w profilu w którym mo¿na wybraæ kolor nicka.
+.locale/Polish/forum/view_post_helping_user.php - Dodano plik jÄ™zykowy dla pliku wyÅ›wietlajÄ…cego pomocne posty uÅ¼ytkownika.
+.locale/Polish/user_center/main.php - dodano plik jÄ™zykowy odpowiedzialny za stronÄ™ gÅ‚Ã³wnÄ… centrum usera.
+.locale/Polish/user_fields/user_delete.php - Dodano local pola profilu do usuniÄ™cia konta.
+.locale/Polish/user_fields/user_primarygroup - Dodano plik jÄ™zykowy odpowiadajÄ…cy za pole w profilu w ktÃ³rym moÅ¼na wybraÄ‡ kolor nicka.
 .locale/Polish/articles.php - Dodano local: Subkategoria ($locale['404'])
-.locale/Polish/ekipa.php - Dodano locale Ekipa usuwaj¹c z pliku g³ównego.
-.locale/Polish/global.php - Dodano locale nades³anych informacji ($locale['global_128'],$locale['global_129']). / Zmieniono local 220 z Edytuj profil na Centrum u¿ytkownika. / Zmieniono adres edit_profile.php na user_center/edit_profile.php./ 
-.locale/Polish/message_status.php - Dodano plik jêzykowy odpowiadaj¹cy za podstronê status wiadomosci.
-.locale/Polish/photogallery.php - Dodano locale odpowiedzialne za podgalerie (znajduj¹ siê pod komentarzem sub).
-.locale/Polish/regulamin.php - Dodano plik jêzykowy odpowiadaj¹cy za podstronê regulamin.
-.locale/Polish/setup.php - Dodano Ekipa oraz Regulamin w nawigacji ($locale['144'],$locale['145']). / Dodano local RSS ($locale['RSS']). / Dodano local odpowiadaj¹cy za logi administratorów ($locale['mlog'])./ Zmieniono PHP-Fusion na PHP-Fusion Revolution oraz usuniêcie katalogu _instalacja po instalcji. / Dodano local odpowiadaj¹cy za Nicks Mod ($locale['nicks_mod']) / Dodano local Dzisiejsi top Uzytkowicy. / Dodano local Zarz±dzanie linkami w PA
-.locale/Polish/view_profile.php - Dodano treœæ o profilu widocznym dla zalogowanych ($locale['404'],$locale['403']).
+.locale/Polish/ekipa.php - Dodano locale Ekipa usuwajÄ…c z pliku gÅ‚Ã³wnego.
+.locale/Polish/global.php - Dodano locale nadesÅ‚anych informacji ($locale['global_128'],$locale['global_129']). / Zmieniono local 220 z Edytuj profil na Centrum uÅ¼ytkownika. / Zmieniono adres edit_profile.php na user_center/edit_profile.php./ 
+.locale/Polish/message_status.php - Dodano plik jÄ™zykowy odpowiadajÄ…cy za podstronÄ™ status wiadomosci.
+.locale/Polish/photogallery.php - Dodano locale odpowiedzialne za podgalerie (znajdujÄ… siÄ™ pod komentarzem sub).
+.locale/Polish/regulamin.php - Dodano plik jÄ™zykowy odpowiadajÄ…cy za podstronÄ™ regulamin.
+.locale/Polish/setup.php - Dodano Ekipa oraz Regulamin w nawigacji ($locale['144'],$locale['145']). / Dodano local RSS ($locale['RSS']). / Dodano local odpowiadajÄ…cy za logi administratorÃ³w ($locale['mlog'])./ Zmieniono PHP-Fusion na PHP-Fusion Revolution oraz usuniÄ™cie katalogu _instalacja po instalcji. / Dodano local odpowiadajÄ…cy za Nicks Mod ($locale['nicks_mod']) / Dodano local Dzisiejsi top Uzytkowicy. / Dodano local ZarzÂ±dzanie linkami w PA
+.locale/Polish/view_profile.php - Dodano treÅ›Ä‡ o profilu widocznym dla zalogowanych ($locale['404'],$locale['403']).
 
-.user_center/edit_profile.php - Przeniesiono plik z g³ównego katalogu strony. / Usuniêto mo¿liwoœæ zmiany nazwy u¿ytkownika.
-.user_center/index.php - Dodano plik odpowiedzialny za stronê g³ówn¹ centrum usera.
-.user_center/messages.php - Przniesiono plik z g³ównego katalogu strony. / Dodanie statusu wys³ania wiadomoœci.
-.user_center/messages_status.php - Utworzony plik odpowiedzialny za status wiadomosci. / Przeniesiono plik z g³ównego katalogu strony.
+.user_center/edit_profile.php - Przeniesiono plik z gÅ‚Ã³wnego katalogu strony. / UsuniÄ™to moÅ¼liwoÅ›Ä‡ zmiany nazwy uÅ¼ytkownika.
+.user_center/index.php - Dodano plik odpowiedzialny za stronÄ™ gÅ‚Ã³wnÄ… centrum usera.
+.user_center/messages.php - Przniesiono plik z gÅ‚Ã³wnego katalogu strony. / Dodanie statusu wysÅ‚ania wiadomoÅ›ci.
+.user_center/messages_status.php - Utworzony plik odpowiedzialny za status wiadomosci. / Przeniesiono plik z gÅ‚Ã³wnego katalogu strony.
 
-.articles.php - Zmieniono kolejnosc paneli oceny dano przed komentarzami. / Dodano subkategorie. / Dodano na skróty.
-.contact.php - Dodano na skróty.
-.downloads.php - Dodano na skróty.
-.ekipa.php - Dodano ekipê strony (Administracja, Moderatorzy, G³ówni Admini).
-.faq.php - Dodano na skróty.
-.maincore.php - Dodano definicjê iVIP. / Dodano funkcjê odpowiadaj¹c¹ za logi moderatorów. / Dodano funkcjê odpowiadaj¹c¹ za kolorowanie./ Poprawiono logi moderatorów./ Dodano przekierowanie do ogl¹danej strony po zalogowaniu i wylogowaniu./
-.news.php - Zmieniono kolejnosc paneli oceny dano przed komentarzami./ Dodano redirect do tematu i posta po dodaniu notki/ Usuniêto wróæ do tematu itd. gdy¿ jest redirect plus locale forum/post.php / Dodano na skróty.
-.notka.php - Dodano plik odpowiedzlny za notki moderatorów.
+.articles.php - Zmieniono kolejnosc paneli oceny dano przed komentarzami. / Dodano subkategorie. / Dodano na skrÃ³ty.
+.contact.php - Dodano na skrÃ³ty.
+.downloads.php - Dodano na skrÃ³ty.
+.ekipa.php - Dodano ekipÄ™ strony (Administracja, Moderatorzy, GÅ‚Ã³wni Admini).
+.faq.php - Dodano na skrÃ³ty.
+.maincore.php - Dodano definicjÄ™ iVIP. / Dodano funkcjÄ™ odpowiadajÄ…cÄ… za logi moderatorÃ³w. / Dodano funkcjÄ™ odpowiadajÄ…cÄ… za kolorowanie./ Poprawiono logi moderatorÃ³w./ Dodano przekierowanie do oglÄ…danej strony po zalogowaniu i wylogowaniu./
+.news.php - Zmieniono kolejnosc paneli oceny dano przed komentarzami./ Dodano redirect do tematu i posta po dodaniu notki/ UsuniÄ™to wrÃ³Ä‡ do tematu itd. gdyÅ¼ jest redirect plus locale forum/post.php / Dodano na skrÃ³ty.
+.notka.php - Dodano plik odpowiedzlny za notki moderatorÃ³w.
 .photogallery - Dodano wyswietlanie podgaleri.
-.profile.php - Dodano profile dostêpne dla zalogowanych. / Dodano status u¿ytkownika (online, offline). / Dodano banowanie ip u¿ytkownika z profilu.
+.profile.php - Dodano profile dostÄ™pne dla zalogowanych. / Dodano status uÅ¼ytkownika (online, offline). / Dodano banowanie ip uÅ¼ytkownika z profilu.
 .register.php - Dodano PW po rejestracji.
-.regulamin.php - Dodano plik pobieraj¹cy zawartoœæ regulaminu z PA/Ustawienia Rejestracji.
-.setuser.php - dodano przekierowanie do poprzednio ogl¹danej strony po zalogowaniu i wylogowaniu./
+.regulamin.php - Dodano plik pobierajÄ…cy zawartoÅ›Ä‡ regulaminu z PA/Ustawienia Rejestracji.
+.setuser.php - dodano przekierowanie do poprzednio oglÄ…danej strony po zalogowaniu i wylogowaniu./
 .viewpage.php - Zmieniono kolejnosc paneli oceny dano przed komentarzami.
-.weblinks.php - Dodano na skróty.
+.weblinks.php - Dodano na skrÃ³ty.
 
-._instalacja/index.php - Dodano przekierowanie na stronê glówn± i automatyczne usuniêcie katalogu _instalacja.
-._instalacja/setup.php - Przeniesiono plik instalacyjny z glównego katalogu strony
+._instalacja/index.php - Dodano przekierowanie na stronÄ™ glÃ³wnÂ± i automatyczne usuniÄ™cie katalogu _instalacja.
+._instalacja/setup.php - Przeniesiono plik instalacyjny z glÃ³wnego katalogu strony
 ._instalacja/setup.php - Przeniesiono plik z stylami z .themes/templates/.
 .setup.php - Dodano do nawigacji Ekipa oraz Regulamin. 
-.setup.php - Dodano pole profilu usuniêcie konta jako w³¹czone.
-.setup.php - Dodano pola pomóg³ do tematów, u¿ytkowników i postów.
-.setup.php - Dodano tabele odpowiedzialn¹ za centrum u¿ytkownika.
+.setup.php - Dodano pole profilu usuniÄ™cie konta jako wÅ‚Ä…czone.
+.setup.php - Dodano pola pomÃ³gÅ‚ do tematÃ³w, uÅ¼ytkownikÃ³w i postÃ³w.
+.setup.php - Dodano tabele odpowiedzialnÄ… za centrum uÅ¼ytkownika.
 .setup.php - Dodano pole odpowiedzialne za podkategorie forum w tabeli forums.
-.setup.php - Dodano pole odpowiedzialne za podkategorie zdjêc w tabeli photo_gallery.
-.setup.php - Zmieniono type=myisam na define engine czyli nie bêdzie problemów instalacji na ka¿dym serwerze: define("ENGINE", "ENGINE=MyISAM"); tablele ".ENGINE.".
-.setup.php - Zmieniono domyœln¹ skórkê na Phos.
-.setup.php - Dodano redkord i tabelê odpowiadaj¹c¹ za RSS.
-.setup.php - Dodano tabele odpowiadaj¹c¹ za notki na forum.
-.setup.php - Dodano pola w tabeli settings odpowiadaj¹ce za PW po rejestracji.
-.setup.php - Dodano rekord i tabelê odpowiadaj¹c¹ za logi moderatorów. 
+.setup.php - Dodano pole odpowiedzialne za podkategorie zdjÄ™c w tabeli photo_gallery.
+.setup.php - Zmieniono type=myisam na define engine czyli nie bÄ™dzie problemÃ³w instalacji na kaÅ¼dym serwerze: define("ENGINE", "ENGINE=MyISAM"); tablele ".ENGINE.".
+.setup.php - Zmieniono domyÅ›lnÄ… skÃ³rkÄ™ na Phos.
+.setup.php - Dodano redkord i tabelÄ™ odpowiadajÄ…cÄ… za RSS.
+.setup.php - Dodano tabele odpowiadajÄ…cÄ… za notki na forum.
+.setup.php - Dodano pola w tabeli settings odpowiadajÄ…ce za PW po rejestracji.
+.setup.php - Dodano rekord i tabelÄ™ odpowiadajÄ…cÄ… za logi moderatorÃ³w. 
 .setup.php - Dodano PHP-Fusion Revolution. /Zmieniono 7.00.07 na 1.00/ 
 .setup.php - Dodano rekord odpowiedzialny za useragent'a
-.setup.php - Dodano rekordy i tabelê odpowiedzialn¹ za kolor i prefix nicka.
-.setup.php - Dodano pole w articles_cats odpowiadajace za podkategorie artykulów.
-.setup.php - Dodano rekord odpowiedzialny za zarz±dzanie linkami.  
+.setup.php - Dodano rekordy i tabelÄ™ odpowiedzialnÄ… za kolor i prefix nicka.
+.setup.php - Dodano pole w articles_cats odpowiadajace za podkategorie artykulÃ³w.
+.setup.php - Dodano rekord odpowiedzialny za zarzÂ±dzanie linkami.  
 .setup.php - Dodano rekord odpowiedzialny za rangi
