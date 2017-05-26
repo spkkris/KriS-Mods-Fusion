@@ -1,4 +1,4 @@
-changeLog of KriS Mods Fusion
+﻿changeLog of KriS Mods Fusion
 
 =================================
 =Zmienione pliki /  Change files=
@@ -113,3 +113,7 @@ changeLog of KriS Mods Fusion
 
 //Zmiany w 2015
 - Poprawki VIP SMS
+
+//Reanimacja projektu
+- Drobne poprawki
+- Zmiana systemu SMS (Dotpay jest już tylko dla firm)

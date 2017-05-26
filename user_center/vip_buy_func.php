@@ -43,7 +43,7 @@ $czas_zycia = rtrim($czas_zycia);
  
  
 if ($status == 0) {
-opentable('Bl¹d');
+opentable('Bl±d');
 echo "Kod niepoprawny.<br>
 <a href='vip_zone.php'>Wróæ...</a>";
 closetable();

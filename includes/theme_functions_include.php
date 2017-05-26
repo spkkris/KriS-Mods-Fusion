@@ -156,7 +156,8 @@ function itemoptions($item_type, $item_id) {
 
 function showcopyright($class = "") {
 	$link_class = $class ? " class='$class' " : "";
-	$res = "Powered by <a href='http://www.php-fusion.co.uk'".$link_class.">PHP-Fusion</a> Revolution copyright &copy; 2002 - ".date("Y")." by Nick Jones.<br />\n";
+	$res  = "Powered by <a href='http://www.krismods.pl'".$link_class.">KriS Mods Revolution</a> copyright &copy; 2016 - ".date("Y").".<br />\n";
+	$res .= "Powered by <a href='http://www.php-fusion.co.uk'".$link_class.">PHP-Fusion</a> copyright &copy; 2002 - ".date("Y")." by Nick Jones.<br />\n";
 	$res .= "Released as free software without warranties under <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'".$link_class.">GNU Affero GPL</a> v3.\n";
 	return $res;
 }

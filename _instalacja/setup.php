@@ -1100,7 +1100,7 @@ if (isset($_POST['step']) && $_POST['step'] == "6") {
 		tinymce_enabled, smtp_host, smtp_username, smtp_password, bad_words_enabled, bad_words, bad_word_replace, guestposts, userthemes, newsperpage, numofshouts, flood_interval,
 		counter, version, maintenance,	maintenance_message) 
 		VALUES 
-		('PHP-Fusion Revolution', 'http://www.yourdomain.com/',
+		('KriS Mods Revolution', 'http://www.yourdomain.com/',
 		'images/php-fusion-logo.png', '', '', 'you@yourdomain.com', '$username', '<center>".$locale['210']."</center>', '', '', 
 		'<center>Copyright &copy; ".date("Y")."</center>', 'news.php', '0', '".stripinput($_POST['localeset'])."', 'Stylo', 'forums', '', '', '', '',
 		'%d/%m/%Y %H:%M', '%B %d %Y %H:%M:%S', '%d-%m-%Y %H:%M', '%B %d %Y %H:%M:%S', '0',

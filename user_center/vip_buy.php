@@ -53,12 +53,6 @@ echo "<form name='inputform' method='post' action='vip_buy_func.php' onsubmit='r
 echo "<td align='right' width='100%' class='tbl2'><span class='small'>\n";
 	echo "<strong>Panel u¿ytkownika v1.0 by PHP-Fusion Revolution</strong></span></td>\n"; 
 	echo "</table>";
-  
-      echo "<br>\n";
-      echo "<table cellpadding='0' cellspacing='1' width='100%' class='tbl-border'>\n<tr>\n";
-echo "<td align='right' width='100%' class='tbl2'><span class='small'>\n";
-	echo "<strong>Panel u¿ytkownika v1.0 by PHP-Fusion Revolution</strong></span></td>\n"; 
-	echo "</table>";
       closetable();
       
 require_once THEMES."templates/footer.php";      
