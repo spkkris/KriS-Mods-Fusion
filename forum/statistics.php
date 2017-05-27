@@ -21,8 +21,7 @@ echo "<table border='0' width='100%' cellpadding='0' cellspacing='1' class='tbl-
 	<tr>
 		<td width='100%' align='left' class='tbl2' colspan='2'><b>".$locale['fs002']."</b></td>
 	</tr>
-	<tr>
-		<td align='center' valign='middle' class='tbl2'><img src='".THEME."forum/users.gif'></td>";
+	<tr>";
 	$result = dbquery("SELECT * FROM ".$db_prefix."online");
 	$online = dbrows($result);
 		echo "<td width='100%' align='left' class='tbl1'>
@@ -91,7 +90,7 @@ echo "<hr><font color='#F75013'>".$locale['fs008']."</font>|<font color='#B5DE21
 	$result = dbquery("SELECT user_id,user_name FROM ".$db_prefix."users ORDER BY user_joined DESC");
 	$total = dbrows($result);
 	$data = dbarray($result);
-		echo "<td align='center' valign='middle' class='tbl2'><img src='".THEME."forum/stats.gif'></td>
+		echo "
 		<td width='100%' align='left' class='tbl1'>".$locale['fs011']."<b>".dbresult($facount, 0)."</b>".$locale['fs012']."<br>
 		".$locale['fs013']."<b>".dbresult($topics, 0)."</b>".$locale['fs014']."<br>
 		".$locale['fs015']."<b>".$total."</b>".$locale['fs016']."<br>
