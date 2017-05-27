@@ -1,7 +1,7 @@
 <?php
 
-$locale['title'] = "Instalator PHP-Fusion Revolution";
-$locale['sub-title'] = "Instalator PHP-Fusion Revolution 1.0";
+$locale['title'] = "Instalator KriS Mods Revolution";
+$locale['sub-title'] = "Instalator KriS Mods Revolution 1.0";
 $locale['000'] = "WERSJA BETA : BRAK OFICJALNEGO WSPARCIA";
 
 $locale['charset'] = "iso-8859-2";
@@ -166,10 +166,10 @@ $locale['206'] = "Do¶wiadczony u¿ytkownik";
 $locale['207'] = "Weteran";
 $locale['208'] = "Fusionista";
 // Welcome message
-$locale['210'] = "Witaj na Swojej nowej stronie.<br />Dziêkujemy za u¿ycie PHP-Fusion Revolution. <br />Mi³ej zabawy.";
+$locale['210'] = "Witaj na Swojej nowej stronie.<br />Dziêkujemy za u¿ycie KriS Mods Revolution. <br />Mi³ej zabawy.";
 // Final message
-$locale['220'] = "Zakoñczono instalacjê, PHP-Fusion Revolution jest gotowe do u¿ycia.<br />
+$locale['220'] = "Zakoñczono instalacjê, KriS Mods Revolution jest gotowe do u¿ycia.<br />
 Naci¶nij Zakoñcz, aby usun±æ folder instalacyjny i przej¶æ na swoj± stronê opart± o PHP-Fusion.<br />
 <strong>Informacja:</strong>Zmieñ prawa dostêpu do pliku config.php (chmod 644) ze wzglêdów bezpieczeñstwa.<br /><br />
-Dziêkujemy za wybranie PHP-Fusion Revolution.";
+Dziêkujemy za wybranie KriS Mods Revolution.";
 ?>
